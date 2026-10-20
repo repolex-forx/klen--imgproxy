@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "imgproxy",
+  "versions": [
+    {
+      "commit": "593191e936d653aaee36cdf84e514c29937458cc",
+      "tag": "",
+      "parsed_at": "2026-10-20T21:39:28.316511+00:00"
+    }
+  ]
+}
