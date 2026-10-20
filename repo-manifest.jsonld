@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/imgproxy/commit/593191e936d653aaee36cdf84e514c29937458cc",
       "git:hexsha": "593191e936d653aaee36cdf84e514c29937458cc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/klen/imgproxy/commit/5057e0c33bb3cfaa9f76fefd8fc8174a2b527ccc",
